@@ -1,13 +1,16 @@
 STATUTS
-
+=======
 
 
 ARTICLE PREMIER - NOM
+---------------------
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : Atelier Collaboratif, ACoLab
 
 
 ARTICLE 2 - BUT OBJET
+---------------------
+
 (Note d'Alex : pour éviter de 'ne pas rentrer dans les cases' ou d'être consideré comme industriue, il semble pertinent de se limiter à la "mise à disposition de matériels" sans rentrer dans les détails)
 Cette association a pour but et objet :
 
@@ -17,16 +20,23 @@ la mise à disposition d’un local et de matériels pour ses membres
 l'achat, la  vente et la location de tous matériels (note de Flo : cette mention est à retirer si l'asso désire  être déclarée d'interet public)
 la possibilité d'organisation d’évènements à destination du grand public.
 
+
 ARTICLE 3 - SIÈGE SOCIAL
+------------------------
 
 Le siège social est fixé au 21 rue Jean Richepin 63000 Clermont-Ferrand
 
 Il pourra être transféré par simple décision du conseil d'administration
 
+
 Article 4 - DURÉE
+-----------------
+
 La durée de l’association est illimitée.
 
+
 ARTICLE 5 - COMPOSITION
+-----------------------
 
 L'association se compose de :
 a) Membres fondateurs
@@ -35,18 +45,24 @@ c) Membres actifs ou adhérents
 Les membres peuvent être des personnes physiques ou morales.
 En cas de personnes morales, celle-ci sera représentée par un membre de son conseil d’administration ou tout autre personne ayant reçu pouvoir de cette instance.
 
+
 ARTICLE 6 - ADMISSION
+---------------------
 
 Pour faire partie de l'association, il faut être agréé par le bureau, qui statue, lors de chacune de ses réunions, sur les demandes d'admission présentées.
 
+
 ARTICLE 7 - MEMBRES – COTISATIONS
+---------------------------------
 
 Sont membres actifs ceux qui ont pris l'engagement de verser annuellement une somme à titre de cotisation fixé par l’assemblée générale dans le règlement intérieur
 Sont membres d'honneur ceux qui ont rendu des services signalés à l'association; ils sont dispensés de cotisations;
 
 Chaque membres actifs, d'honneur ou adhérents à jours de sa cotisation, 1 an avant la tenu de l’assemblé générale, est en pouvoir de voter.
 
+
 ARTICLE 8. - RADIATIONS
+-----------------------
 
 La qualité de membre se perd par :
 a) La démission;
@@ -58,17 +74,22 @@ d) Pour tout motif de radiation, si le dit adhérent en joui, le status de membr
 
 
 ARTICLE 9. - AFFILIATION
+------------------------
 
 L’association peut adhérer à d’autres associations, unions ou regroupements par décision du conseil d’administration.
 
+
 ARTICLE 10. - RESSOURCES
+------------------------
 
 Les ressources de l'association comprennent :
 1° Le montant des cotisations;
 2° Les subventions de la communauté Européenne, l’État, des départements et des communes.
 3° Toutes les ressources autorisées par les lois et règlements en vigueur.
 
+
 ARTICLE 11 - ASSEMBLÉE GÉNÉRALE ORDINAIRE
+-----------------------------------------
 
 L'assemblée générale ordinaire comprend tous les membres de l'association à quelque titre qu'ils soient.
 
@@ -88,7 +109,9 @@ Il est procédé, après épuisement de l'ordre du jour, au renouvellement des m
 Toutes les délibérations sont prises à main levée, excepté l’élection des membres du conseil.
 Les décisions des assemblées générales s’imposent à tous les membres, y compris absents ou représentés.
 
+
 ARTICLE 12 - ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
+----------------------------------------------
 
 Si besoin est, ou à la demande de la moitié plus un des membres inscrits, le président peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts ou la dissolution ou pour des actes portant sur des immeubles.
 Les modalités de convocation sont les mêmes que pour l’assemblée générale ordinaire.
@@ -96,6 +119,7 @@ Les délibérations sont prises à la majorité des deux tiers des suffrages exp
 
 
 ARTICLE 13 - CONSEIL D'ADMINISTRATION
+-------------------------------------
 
 L'association est dirigée par un conseil de (9) membres, élus pour (3) années par l'assemblée générale. Les membres sont rééligibles.
 
@@ -112,7 +136,9 @@ Les décisions sont prises à la majorité des voix; en cas de partage, la voix 
 
 Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réunions consécutives sera considéré comme démissionnaire.
 
+
 ARTICLE 14 – LE BUREAU
+----------------------
 
 Le conseil d'administration élit parmi ses membres, à bulletin secret, un bureau composé de :
 1) Un(e) président(e);
@@ -120,18 +146,24 @@ Le conseil d'administration élit parmi ses membres, à bulletin secret, un bure
 3) Un(e) trésorier(e)
 Il n’est pas possible de cumuler plusieurs fonction au sein du bureau.
 
+
 ARTICLE 15 – INDEMNITÉS
+-----------------------
 
 Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 Ces dispositions peuvent être affinées dans un règlement intérieur (nature des frais, qualité des bénéficiaires, etc.)
 
+
 ARTICLE 16 – RÈGLEMENT INTÉRIEUR
+--------------------------------
 
 Un règlement intérieur est établi par le conseil d'administration, qui le fait approuver par l'assemblée générale.
 
 Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association.
 
+
 ARTICLE - 16 - DISSOLUTION
+--------------------------
 
 En cas de dissolution prononcée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés, et l'actif, s'il y a lieu, est dévolu conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution (ou à une association ayant des buts similaires).
 
